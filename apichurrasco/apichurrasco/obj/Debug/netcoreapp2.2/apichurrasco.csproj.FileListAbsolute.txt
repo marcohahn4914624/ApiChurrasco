@@ -1,0 +1,13 @@
+D:\aspnetcore2\apichurrasco\apichurrasco\bin\Debug\netcoreapp2.2\apichurrasco.deps.json
+D:\aspnetcore2\apichurrasco\apichurrasco\bin\Debug\netcoreapp2.2\apichurrasco.runtimeconfig.json
+D:\aspnetcore2\apichurrasco\apichurrasco\bin\Debug\netcoreapp2.2\apichurrasco.runtimeconfig.dev.json
+D:\aspnetcore2\apichurrasco\apichurrasco\bin\Debug\netcoreapp2.2\apichurrasco.dll
+D:\aspnetcore2\apichurrasco\apichurrasco\bin\Debug\netcoreapp2.2\apichurrasco.pdb
+D:\aspnetcore2\apichurrasco\apichurrasco\obj\Debug\netcoreapp2.2\apichurrasco.csproj.CoreCompileInputs.cache
+D:\aspnetcore2\apichurrasco\apichurrasco\obj\Debug\netcoreapp2.2\apichurrasco.RazorAssemblyInfo.cache
+D:\aspnetcore2\apichurrasco\apichurrasco\obj\Debug\netcoreapp2.2\apichurrasco.RazorAssemblyInfo.cs
+D:\aspnetcore2\apichurrasco\apichurrasco\obj\Debug\netcoreapp2.2\apichurrasco.AssemblyInfoInputs.cache
+D:\aspnetcore2\apichurrasco\apichurrasco\obj\Debug\netcoreapp2.2\apichurrasco.AssemblyInfo.cs
+D:\aspnetcore2\apichurrasco\apichurrasco\obj\Debug\netcoreapp2.2\apichurrasco.RazorTargetAssemblyInfo.cache
+D:\aspnetcore2\apichurrasco\apichurrasco\obj\Debug\netcoreapp2.2\apichurrasco.dll
+D:\aspnetcore2\apichurrasco\apichurrasco\obj\Debug\netcoreapp2.2\apichurrasco.pdb
